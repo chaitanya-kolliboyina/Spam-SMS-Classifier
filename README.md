@@ -18,6 +18,7 @@ https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 Total data set size  = 5572
 <p>&nbsp;</p>
 
+
 * spam messages =  747
 
 * Ham messages  =  4825
