@@ -10,3 +10,5 @@ Such type of SMS are considered as spam. When these spam messages  number is in 
 <p>&nbsp;</p>
 
 The main aim of this project is to design a classifier with help of various neural network models viz. Dense, LSTM, Bi-LSTM and based on the accuracy the best model will be decided to use as a " SMS spam classifier "
+<p>&nbsp;</p>
+![Test Image 1](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.sms77.io%2Fwp-content%2Fuploads%2FSMS-Spam-Header.jpg&imgrefurl=https%3A%2F%2Fwww.sms77.io%2Fen%2Fblog%2Fsms-spam-and-how-you-can-avoid-it%2F&tbnid=ZNwKmoUuzsskoM&vet=12ahUKEwi74fXxgMfxAhW9kksFHRYhCq0QMygNegUIARDdAQ..i&docid=K31B8z6oGsFP5M&w=1700&h=983&q=sms%20spam&ved=2ahUKEwi74fXxgMfxAhW9kksFHRYhCq0QMygNegUIARDdAQ)
