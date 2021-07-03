@@ -11,4 +11,29 @@ Such type of SMS are considered as spam. When these spam messages  number is in 
 
 The main aim of this project is to design a classifier with help of various neural network models viz. Dense, LSTM, Bi-LSTM and based on the accuracy the best model will be decided to use as a " SMS spam classifier "
 <p>&nbsp;</p>
-![image](https://user-images.githubusercontent.com/61906444/124356011-92d6f000-dc31-11eb-9a16-bc46dd53c7d8.png)
+
+Total data set size  = 5572
+<p>&nbsp;</p>
+spam messages =  747
+<p>&nbsp;</p>
+Ham messages  =  4825
+<p>&nbsp;</p>
+
+* Data Samples used  = 1494
+     * Ham messages   =  747
+     * Spam messages  =  747
+
+     
+* Training data   =  896
+* validation data = 478
+* Testing data    =  120
+* ####Different models accuracy on test data :
+<p>&nbsp;</p>
+
+* Dense model = 89.99%
+* LSTM model  = 91.03%
+* Bi-LSTM model = 93.99%
+
+<p>&nbsp;</p>
+
+#### From these accuracies, BI-LSTM model works more accurate than Dense, LSTM
