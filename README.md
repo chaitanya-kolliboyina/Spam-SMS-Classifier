@@ -27,16 +27,16 @@ Total data set size  = 5572
      * Ham messages   =  747
      * Spam messages  =  747
 
-     
 * Training data   =  896
 * validation data = 478
 * Testing data    =  120
+
 #### Different models accuracy on test data :
 <p>&nbsp;</p>
 
-* Dense model = 89.99%
-* LSTM model  = 91.03%
-* Bi-LSTM model = 93.99%
+* Dense model = 94.16%
+* LSTM model  = 92.43%
+* Bi-LSTM model = 94.38%
 
 <p>&nbsp;</p>
 
